@@ -201,12 +201,31 @@ Teaching material and reference implementations from the **Agentic AI Special In
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aaron-Warner-4504&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaron-Warner-4504&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Aaron-Warner-4504&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaron-Warner-4504&theme=tokyo-night&hide_border=true" width="100%"/>
+
+</div>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Aaron-Warner-4504&theme=tokyonight&hide_border=true" />
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Aaron-Warner-4504/Aaron-Warner-4504/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aaron-Warner-4504&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
 
 </div>
 
