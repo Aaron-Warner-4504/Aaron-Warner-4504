@@ -2,11 +2,11 @@
 
 # Pranav Kodlinge
 
-### AI Engineer · Building Agentic Systems & GenAI Pipelines
+### AI Engineer · Professional Overthinker of System Architecture
 
-**Shipping GenAI to 147+ enterprise clients · LangChain · RAG · LangGraph · Multi-Agent Systems**
+**wake · code · sleep · repeat — currently shipping GenAI to 147+ enterprise clients**
 <br/>
-B.E. ENTC @ PICT, Pune · GPA 9.38
+B.E. ENTC @ PICT, Pune · GPA 9.38 (still recovering from that GPA grind)
 
 <br/>
 
@@ -21,48 +21,56 @@ B.E. ENTC @ PICT, Pune · GPA 9.38
 
 ## 👋 About Me
 
-I'm an **AI Engineer** currently building production GenAI systems at **Enthral AI**, where my work powers automated content pipelines for 147+ enterprise clients including SBI, IDFC, TATA Motors, and GMR. I care about turning research-grade AI (agents, RAG, LLM orchestration) into systems that actually run reliably in production — with real CI/CD, monitoring, and uptime SLAs behind them.
+Certified nerd who'd rather ship something at 2am than sleep on time. My days are basically `wake → code → sleep`, repeat — I get genuinely excited about making agents talk to each other, RAG pipelines stop hallucinating, and pipelines go from "works on my machine" to actually production-grade.
 
-Outside of work, I'm a B.E. Electronics & Telecommunication student at **PICT, Pune** (GPA 9.38), an **AI Researcher** developing a real-time Indian Sign Language → Text translation system, and the **Co-Founder of PICT Nakshatra**, a model rocketry club that made it to the InSpace + ISRO national finals.
+Not super loud on GitHub — most of my cooking happens locally or straight in prod at work before it ever sees a public repo (some of it never will, NDA says hi 👋). But what *is* public should give you a solid vibe of how I build.
+
+Right now I'm an **AI Engineer at Enthral AI**, where I've been:
+- Architecting the GenAI Presentation → SCORM engine (LangChain + Groq) that's live and actually used by 147+ enterprise clients
+- Breaking a monolith into microservices and shaving ~40–50% off API latency in the process
+- Setting up Azure CI/CD pipelines so deploys don't randomly ruin my day, pushing uptime from ~95% to 99%+
+- Building a RAG layer so the models stop making things up, and a "Smart Nudge" agent that bumped course completions ~30%
+
+Off the clock, I'm still in nerd mode — B.E. ENTC student at PICT, Pune (GPA 9.38 because apparently I can't half-ass anything), researching real-time Indian Sign Language translation, and Co-Founder of PICT Nakshatra where we built a rocketry Ground Control System good enough to make the InSpace + ISRO national finals.
 
 - 🔭 Currently building autonomous agent + RAG systems in production at **Enthral AI**
-- 🛡️ Actively developing **OZONE**, an autonomous multi-agent red-team scanner
-- 🧪 Researching real-time **Indian Sign Language translation** (CNNs + OpenCV + NLP) — academic publication forthcoming
+- 🛡️ Cooking on **OZONE**, an autonomous multi-agent red-team scanner, in my off hours
+- 🧪 Researching real-time **Indian Sign Language translation** — academic publication forthcoming
 - 🚀 Led Ground Control System architecture for **PICT Nakshatra** (InSpace + ISRO finalists)
-- 💬 Ask me about LangChain, RAG pipelines, agentic workflows, or Azure DevOps for AI systems
+- 💬 Ask me about LangChain, RAG pipelines, agentic workflows, or why my uptime graphs are personal
 - 📫 Reach me at **pranavkodlinge@gmail.com**
 
 <br/>
 
-## 💼 Experience
+## 💼 Where I Clock In
 
 <table>
 <tr>
 <td width="140"><b>Jul 2025 – Present</b></td>
 <td>
 <b>AI Engineer · Enthral AI</b><br/>
-Architected the GenAI Presentation → SCORM engine (LangChain + Groq) live at <a href="https://scormgenai.gogetempowered.com">scormgenai.gogetempowered.com</a>. Decomposed a monolith into CV Engine + LLM Orchestration microservices, cutting API latency ~40–50%. Built Azure DevOps CI/CD with systemd health monitoring, raising uptime from ~95% to 99%+. Shipped a RAG enforcement layer and a behavioral "Smart Nudge" agent that lifted course completion ~30%.
+Architected the GenAI Presentation → SCORM engine (LangChain + Groq) live at <a href="https://scormgenai.gogetempowered.com">scormgenai.gogetempowered.com</a>. Broke a monolith into CV Engine + LLM Orchestration microservices, cutting API latency ~40–50%. Set up Azure DevOps CI/CD with systemd health monitoring so deploys stopped being a gamble — uptime went from ~95% to 99%+. Shipped a RAG enforcement layer so the models stop confidently lying, plus a "Smart Nudge" agent that bumped course completion ~30%.
 </td>
 </tr>
 <tr>
 <td><b>Feb 2024 – Present</b></td>
 <td>
 <b>AI Researcher · PICT</b><br/>
-Developing a real-time ISL → Text translation pipeline (CNNs, OpenCV gesture tracking, sequence modeling, NLP post-processing) for a bidirectional accessibility interface. Academic publication forthcoming.
+Building a real-time ISL → Text translation pipeline (CNNs, OpenCV gesture tracking, sequence modeling, NLP post-processing) for a bidirectional accessibility interface. Paper's in the works.
 </td>
 </tr>
 <tr>
 <td><b>Oct 2024 – Nov 2024</b></td>
 <td>
 <b>Data Analyst · Vodafone Idea Foundation</b><br/>
-Built churn prediction models from large-scale customer analytics; improved service-quality metric accuracy through feature engineering and model optimization.
+Built churn prediction models off large-scale customer analytics; squeezed more accuracy out of service-quality metrics via feature engineering and model tuning.
 </td>
 </tr>
 </table>
 
 <br/>
 
-## 🛡️ Flagship Project
+## 🛡️ The Side Project I Won't Shut Up About
 
 <table>
 <tr>
@@ -70,7 +78,7 @@ Built churn prediction models from large-scale customer analytics; improved serv
 
 ### [OZONE — Autonomous Multi-Agent Red-Team Scanner](https://github.com/Aaron-Warner-4504/Ozone)
 
-An autonomous, multi-agent web application red-team scanner. Combines LLM-driven decision-making with an expert knowledge base and graph-guided attack planning to discover and verify vulnerabilities — **BOLA/IDOR, SQLi, XSS, SSRF, auth bypass, mass assignment, and deserialization** — against a live target or a source code checkout.
+Built this because manually red-teaming apps is boring and I'd rather let agents do it. It's an autonomous, multi-agent web app scanner that combines LLM-driven decision-making with an expert knowledge base and graph-guided attack planning to find and verify real vulns — **BOLA/IDOR, SQLi, XSS, SSRF, auth bypass, mass assignment, and deserialization** — against a live target or a source checkout.
 
 `Multi-Agent Systems` `LLM Planning` `Neo4j Graph Planner` `AppSec` `Python`
 
@@ -80,7 +88,7 @@ An autonomous, multi-agent web application red-team scanner. Combines LLM-driven
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Stuff I've Shipped
 
 <table>
 <tr>
@@ -89,7 +97,7 @@ An autonomous, multi-agent web application red-team scanner. Combines LLM-driven
 ### 🗄️ [ORBIT](https://orbit.astril.in) — Live
 **Database Analyzer & Optimizer** · Firebase · FastAPI
 
-Detects performance bottlenecks, auto-generates ER diagrams and health reports, and applies fixes through a human-in-the-loop approval workflow. Ships with Google OAuth and provider-aware auth state handling.
+Sniffs out DB performance bottlenecks, auto-generates ER diagrams and health reports, and only applies fixes once you approve them — no YOLO auto-changes to your prod database. Google OAuth baked in.
 
 `FastAPI` `Firebase` `OAuth2`
 
@@ -99,7 +107,7 @@ Detects performance bottlenecks, auto-generates ER diagrams and health reports, 
 ### 🧠 [Sakha AI](https://sakhaai.vercel.app) — Live
 **LLM Productivity Assistant** · Google Calendar · OAuth2
 
-Conversational AI assistant with OAuth2, task guardrails that block premature task completion, contextual LLM orchestration, and real-time calendar/task sync.
+Your AI assistant that actually has boundaries — task guardrails stop you from marking things "done" before they're due. OAuth2, contextual LLM orchestration, real-time calendar sync.
 
 `LLM Orchestration` `OAuth2` `Google APIs`
 
@@ -111,7 +119,7 @@ Conversational AI assistant with OAuth2, task guardrails that block premature ta
 ### 🕹️ [AutoAgent](https://github.com/Aaron-Warner-4504/AutoAgent)
 **Autonomous Browser AI** · 5-Tool Orchestration
 
-Browser automation agent orchestrating 5 tools via LangChain + Groq + Playwright, with a persistent memory layer (Notion/Firestore) for multi-step research and workflow execution.
+A browser agent that clicks around the internet so I don't have to. Orchestrates 5 tools via LangChain + Groq + Playwright, with persistent memory (Notion/Firestore) for multi-step research and workflow execution.
 
 `LangChain` `Playwright` `Firestore`
 
@@ -121,7 +129,7 @@ Browser automation agent orchestrating 5 tools via LangChain + Groq + Playwright
 ### 📚 [GPT-4o Research Agent](https://github.com/Aaron-Warner-4504/research_agent)
 **Multi-Agent Research System** · LangGraph
 
-Multi-agent system integrating the arXiv API, RAG pipelines, and structured agent orchestration to auto-generate literature reviews and research briefs.
+For when reading 40 arXiv papers sounds like a personality flaw — multi-agent system that pulls from arXiv, runs RAG, and spits out structured research briefs.
 
 `LangGraph` `RAG` `arXiv API`
 
@@ -131,14 +139,14 @@ Multi-agent system integrating the arXiv API, RAG pipelines, and structured agen
 
 <br/>
 
-## 🛰️ More From the Lab
+## 🛰️ Other Things I've Cooked
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🤟 Sign Language Translator
-Real-time **ISL → Text** translator using CNNs, OpenCV gesture tracking, and NLP post-processing for bidirectional accessibility communication — the applied side of my ongoing PICT research.
+Real-time **ISL → Text** translator using CNNs, OpenCV gesture tracking, and NLP post-processing — the applied, "does it actually work" side of my ongoing PICT research.
 
 `Computer Vision` `CNNs` `OpenCV`
 
@@ -146,7 +154,7 @@ Real-time **ISL → Text** translator using CNNs, OpenCV gesture tracking, and N
 <td width="50%" valign="top">
 
 ### 🎓 [AgenticAI-SIG](https://github.com/Aaron-Warner-4504/AgenticAI-SIG)
-Teaching material and reference implementations from the **Agentic AI Special Interest Group** I taught — practical, from-scratch agent patterns for peers at PICT.
+Notes and code from the Agentic AI SIG I taught at PICT — because explaining agents from scratch to your peers is the fastest way to find out what you don't actually understand yet.
 
 `Agents` `Education`
 
@@ -156,7 +164,7 @@ Teaching material and reference implementations from the **Agentic AI Special In
 
 <br/>
 
-## 🧰 Tech Stack
+## 🧰 What's in the Toolbox
 
 <div align="center">
 
@@ -197,7 +205,7 @@ Teaching material and reference implementations from the **Agentic AI Special In
 
 <br/>
 
-## 📊 GitHub Stats
+## 📊 The Numbers (Modest, But They're Mine)
 
 <div align="center">
 
@@ -211,7 +219,7 @@ Teaching material and reference implementations from the **Agentic AI Special In
 
 <br/>
 
-## 📈 Contribution Graph
+## 📈 Proof I Actually Show Up
 
 <div align="center">
 
@@ -219,21 +227,21 @@ Teaching material and reference implementations from the **Agentic AI Special In
 
 </div>
 
-
-
 <br/>
 
-## 🏆 Achievements & Leadership
 
-- 🚀 **Co-Founder, PICT Nakshatra** — Led Ground Control System architecture and telemetry pipeline; **InSpace + ISRO Model Rocketry Finalists**
-- 📄 **Research Publication (Forthcoming)** — Real-time Indian Sign Language translation using deep learning and NLP post-processing
-- 🎓 **GPA 9.38** — B.E. Electronics & Telecommunication, Pune Institute of Computer Technology (2023–2027)
+
+## 🚀 Receipts
+
+- 🚀 **Co-Founder, PICT Nakshatra** — architected the Ground Control System and telemetry pipeline; made it to the **InSpace + ISRO Model Rocketry finals**, so apparently my code doesn't just crash servers, it can also not crash rockets
+- 📄 **Research Publication (Forthcoming)** — real-time Indian Sign Language translation, deep learning + NLP post-processing
+- 🎓 **GPA 9.38** — B.E. Electronics & Telecommunication, PICT (2023–2027), the sleep debt was worth it
 
 <br/>
 
 <div align="center">
 
-### 📬 Let's build something intelligent.
+### 📬 Got something worth building? Let's talk.
 
 <a href="https://www.linkedin.com/in/pranav-kodlinge/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pranavkodlinge@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
