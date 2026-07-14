@@ -219,15 +219,7 @@ Teaching material and reference implementations from the **Agentic AI Special In
 
 </div>
 
-<br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aaron-Warner-4504&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
-
-</div>
 
 <br/>
 
