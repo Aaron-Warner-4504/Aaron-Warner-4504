@@ -1,13 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Pranav%20Kodlinge&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Building%20Agentic%20Systems%20%26%20GenAI%20Pipelines&descAlignY=58&descSize=18" width="100%"/>
+# Pranav Kodlinge
+
+### AI Engineer · Building Agentic Systems & GenAI Pipelines
+
+**Shipping GenAI to 147+ enterprise clients · LangChain · RAG · LangGraph · Multi-Agent Systems**
+<br/>
+B.E. ENTC @ PICT, Pune · GPA 9.38
+
+<br/>
 
 <a href="https://aaron-warner-4504.github.io/Pranav-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/pranav-kodlinge/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pranavkodlinge@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://aaron-warner-4504.github.io/Pranav-Portfolio/resume.pdf"><img src="https://img.shields.io/badge/Resume-4B32C3?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=650&lines=Architecting+Intelligence.;LangChain+%7C+RAG+%7C+LangGraph+%7C+Multi-Agent+Systems;Shipping+GenAI+to+147%2B+Enterprise+Clients;B.E.+ENTC+%40+PICT%2C+Pune+%7C+GPA+9.38" alt="Typing SVG" />
 
 </div>
 
@@ -20,9 +26,9 @@ I'm an **AI Engineer** currently building production GenAI systems at **Enthral 
 Outside of work, I'm a B.E. Electronics & Telecommunication student at **PICT, Pune** (GPA 9.38), an **AI Researcher** developing a real-time Indian Sign Language → Text translation system, and the **Co-Founder of PICT Nakshatra**, a model rocketry club that made it to the InSpace + ISRO national finals.
 
 - 🔭 Currently building autonomous agent + RAG systems in production at **Enthral AI**
+- 🛡️ Actively developing **OZONE**, an autonomous multi-agent red-team scanner
 - 🧪 Researching real-time **Indian Sign Language translation** (CNNs + OpenCV + NLP) — academic publication forthcoming
 - 🚀 Led Ground Control System architecture for **PICT Nakshatra** (InSpace + ISRO finalists)
-- 🌱 Deep in **LangGraph, multi-agent orchestration, and RAG evaluation**
 - 💬 Ask me about LangChain, RAG pipelines, agentic workflows, or Azure DevOps for AI systems
 - 📫 Reach me at **pranavkodlinge@gmail.com**
 
@@ -56,13 +62,31 @@ Built churn prediction models from large-scale customer analytics; improved serv
 
 <br/>
 
+## 🛡️ Flagship Project
+
+<table>
+<tr>
+<td>
+
+### [OZONE — Autonomous Multi-Agent Red-Team Scanner](https://github.com/Aaron-Warner-4504/Ozone)
+
+An autonomous, multi-agent web application red-team scanner. Combines LLM-driven decision-making with an expert knowledge base and graph-guided attack planning to discover and verify vulnerabilities — **BOLA/IDOR, SQLi, XSS, SSRF, auth bypass, mass assignment, and deserialization** — against a live target or a source code checkout.
+
+`Multi-Agent Systems` `LLM Planning` `Neo4j Graph Planner` `AppSec` `Python`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ [ORBIT](https://orbit.astril.in)
+### 🗄️ [ORBIT](https://orbit.astril.in) — Live
 **Database Analyzer & Optimizer** · Firebase · FastAPI
 
 Detects performance bottlenecks, auto-generates ER diagrams and health reports, and applies fixes through a human-in-the-loop approval workflow. Ships with Google OAuth and provider-aware auth state handling.
@@ -113,28 +137,10 @@ Multi-agent system integrating the arXiv API, RAG pipelines, and structured agen
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ [OZONE](https://github.com/Aaron-Warner-4504/Ozone)
-Autonomous multi-agent **red-team scanner**. Combines LLM-driven decision-making with an expert knowledge base and graph-guided attack planning to discover and verify BOLA/IDOR, SQLi, XSS, SSRF, auth bypass, mass assignment, and deserialization vulnerabilities against live targets or source checkouts.
-
-`Multi-Agent` `AppSec` `Neo4j`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🤟 Sign Language Translator
 Real-time **ISL → Text** translator using CNNs, OpenCV gesture tracking, and NLP post-processing for bidirectional accessibility communication — the applied side of my ongoing PICT research.
 
 `Computer Vision` `CNNs` `OpenCV`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 [Nakshatra](https://github.com/Aaron-Warner-4504/Nakshatra)
-Ground Control System (frontend + backend) for **PICT Nakshatra**'s model rocketry telemetry — built as Co-Founder for a national-level InSpace + ISRO finalist competition entry.
-
-`Python` `Telemetry` `Ground Control`
 
 </td>
 <td width="50%" valign="top">
@@ -143,24 +149,6 @@ Ground Control System (frontend + backend) for **PICT Nakshatra**'s model rocket
 Teaching material and reference implementations from the **Agentic AI Special Interest Group** I taught — practical, from-scratch agent patterns for peers at PICT.
 
 `Agents` `Education`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔊 [EnthralAIVoice](https://github.com/Aaron-Warner-4504/EnthralAIVoice)
-Prompt-driven **voice generation** tool built on AI4Bharat's Parler-TTS — creates a brand-new synthetic voice purely from a text description.
-
-`TTS` `AI4Bharat` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 [Microlearning](https://github.com/Aaron-Warner-4504/microlearning)
-Converts raw text/topics into short **microlearning videos**, supporting both topic-driven and paragraph-driven generation for fast EdTech content authoring.
-
-`Content Generation` `TTS` `Python`
 
 </td>
 </tr>
@@ -220,10 +208,6 @@ Converts raw text/topics into short **microlearning videos**, supporting both to
 
 <img src="https://streak-stats.demolab.com?user=Aaron-Warner-4504&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaron-Warner-4504&theme=tokyo-night&hide_border=true" width="100%"/>
-
 </div>
 
 <br/>
@@ -242,7 +226,5 @@ Converts raw text/topics into short **microlearning videos**, supporting both to
 
 <a href="https://www.linkedin.com/in/pranav-kodlinge/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pranavkodlinge@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
 
 </div>
