@@ -211,11 +211,11 @@ Teaching material and reference implementations from the **Agentic AI Special In
 
 <br/>
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aaron-Warner-4504/Aaron-Warner-4504/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://ghchart.rshah.org/3fb950/Aaron-Warner-4504" alt="Pranav's GitHub contribution graph" width="100%"/>
 
 </div>
 
@@ -225,7 +225,7 @@ Teaching material and reference implementations from the **Agentic AI Special In
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aaron-Warner-4504&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Aaron-Warner-4504&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="100%"/>
 
 </div>
 
