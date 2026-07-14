@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-   ___                             _  __         _ _ _
-  / _ \_ __ __ _ _ __   __ ___   _| |/ /___   __| | (_)_ __   __ _  ___
- / /_)/ '__/ _` | '_ \ / _` \ \ / / ' // _ \ / _` | | | '_ \ / _` |/ _ \
-/ ___/| | | (_| | | | | (_| |\ V /| . \ (_) | (_| | | | | | | (_| |  __/
-\/    |_|  \__,_|_| |_|\__,_| \_/ |_|\_\___/ \__,_|_|_|_| |_|\__, |\___|
-                                                              |___/
-```
+<img src="https://raw.githubusercontent.com/Aaron-Warner-4504/Aaron-Warner-4504/main/assets/terminal-banner.svg" width="800" alt="terminal banner"/>
 
 **AI Engineer · Professional Overthinker of System Architecture**
 
@@ -45,7 +38,7 @@ shell:       always open
 
 Certified nerd who'd rather ship something at 2am than sleep on time. My days are basically `wake → code → sleep`, repeat — I get genuinely excited about making agents talk to each other, RAG pipelines stop hallucinating, and pipelines go from "works on my machine" to actually production-grade.
 
-Not super loud on GitHub — most of my cooking happens locally or straight in prod at work before it ever sees a public repo (some of it never will, NDA says hi 👋). But what *is* public should give you a solid vibe of how I build.
+Not super loud on GitHub — most of my cooking happens locally or straight in prod at work before it ever sees a public repo (some of it never will, NDA says hi 👋). But what *is* public should give you a solid vibe of how I build. Conributing to Open Source sometimes depends on mood.
 
 Right now I'm an **AI Engineer at Enthral AI**, where I've been:
 - Architecting the GenAI Presentation → SCORM engine (LangChain + Groq) that's live and actually used by 147+ enterprise clients
@@ -116,6 +109,16 @@ Built this because manually red-teaming apps is boring and I'd rather let agents
 <tr>
 <td width="50%" valign="top">
 
+### 🎬 [GenAI SCORM Studio](https://scormgenai.gogetempowered.com) — Live
+**Topic → Deck → SCORM Pipeline** · LangChain · Groq
+
+End-to-end pipeline that turns a topic into a McKinsey-style deck, then packages it into LMS-ready SCORM with AI narration, multilingual TTS, auto-generated MCQs, and H5P flashcards. In production, used by 147+ enterprise clients.
+
+`LangChain` `Groq` `SCORM` `TTS`
+
+</td>
+<td width="50%" valign="top">
+
 ### 🗄️ [ORBIT](https://orbit.astril.in) — Live
 **Database Analyzer & Optimizer** · Firebase · FastAPI
 
@@ -124,6 +127,8 @@ Sniffs out DB performance bottlenecks, auto-generates ER diagrams and health rep
 `FastAPI` `Firebase` `OAuth2`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧠 [Sakha AI](https://sakhaai.vercel.app) — Live
@@ -134,11 +139,9 @@ Your AI assistant that actually has boundaries — task guardrails stop you from
 `LLM Orchestration` `OAuth2` `Google APIs`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🕹️ [AutoAgent](https://github.com/Aaron-Warner-4504/AutoAgent)
+### 🕹️ [AutoAgent](https://github.com/Aaron-Warner-4504/AutoAgent) — [Demo](https://youtu.be/njlc8-r3hGw)
 **Autonomous Browser AI** · 5-Tool Orchestration
 
 A browser agent that clicks around the internet so I don't have to. Orchestrates 5 tools via LangChain + Groq + Playwright, with persistent memory (Notion/Firestore) for multi-step research and workflow execution.
@@ -146,6 +149,8 @@ A browser agent that clicks around the internet so I don't have to. Orchestrates
 `LangChain` `Playwright` `Firestore`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📚 [GPT-4o Research Agent](https://github.com/Aaron-Warner-4504/research_agent)
@@ -155,6 +160,8 @@ For when reading 40 arXiv papers sounds like a personality flaw — multi-agent 
 
 `LangGraph` `RAG` `arXiv API`
 
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -250,6 +257,7 @@ Notes and code from the Agentic AI SIG I taught at PICT — because explaining a
 </div>
 
 <br/>
+
 
 
 ## 🚀 Receipts
