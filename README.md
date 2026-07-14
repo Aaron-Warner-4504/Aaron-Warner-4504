@@ -1,25 +1,47 @@
 <div align="center">
 
-# Pranav Kodlinge
+```
+   ___                             _  __         _ _ _
+  / _ \_ __ __ _ _ __   __ ___   _| |/ /___   __| | (_)_ __   __ _  ___
+ / /_)/ '__/ _` | '_ \ / _` \ \ / / ' // _ \ / _` | | | '_ \ / _` |/ _ \
+/ ___/| | | (_| | | | | (_| |\ V /| . \ (_) | (_| | | | | | | (_| |  __/
+\/    |_|  \__,_|_| |_|\__,_| \_/ |_|\_\___/ \__,_|_|_|_| |_|\__, |\___|
+                                                              |___/
+```
 
-### AI Engineer · Professional Overthinker of System Architecture
+**AI Engineer · Professional Overthinker of System Architecture**
 
-**wake · code · sleep · repeat — currently shipping GenAI to 147+ enterprise clients**
+`wake` → `code` → `sleep` → `repeat` — currently shipping GenAI to 147+ enterprise clients
+
 <br/>
-B.E. ENTC @ PICT, Pune · GPA 9.38 (still recovering from that GPA grind)
 
-<br/>
-
-<a href="https://aaron-warner-4504.github.io/Pranav-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/pranav-kodlinge/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pranavkodlinge@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://aaron-warner-4504.github.io/Pranav-Portfolio/resume.pdf"><img src="https://img.shields.io/badge/Resume-4B32C3?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+<a href="https://aaron-warner-4504.github.io/Pranav-Portfolio/"><img src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=000000" /></a>
+<a href="https://www.linkedin.com/in/pranav-kodlinge/"><img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000" /></a>
+<a href="mailto:pranavkodlinge@gmail.com"><img src="https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000" /></a>
+<a href="https://aaron-warner-4504.github.io/Pranav-Portfolio/resume.pdf"><img src="https://img.shields.io/badge/-RESUME-000000?style=for-the-badge&logo=readdotcv&logoColor=39FF14&labelColor=000000" /></a>
 
 </div>
 
 <br/>
 
-## 👋 About Me
+```bash
+pranav@dev:~$ whoami
+```
+
+```yaml
+name:        Pranav Kodlinge
+role:        AI Engineer @ Enthral AI
+education:   B.E. ENTC, PICT Pune | GPA 9.38
+status:      wake -> code -> sleep -> repeat
+github:      quiet on purpose (most builds happen in local / prod, NDA says hi)
+currently:   agents talking to agents, RAG pipelines that stop lying
+uptime:      99%+ (personal and infra)
+shell:       always open
+```
+
+<br/>
+
+## 💻 About Me
 
 Certified nerd who'd rather ship something at 2am than sleep on time. My days are basically `wake → code → sleep`, repeat — I get genuinely excited about making agents talk to each other, RAG pipelines stop hallucinating, and pipelines go from "works on my machine" to actually production-grade.
 
@@ -168,38 +190,38 @@ Notes and code from the Agentic AI SIG I taught at PICT — because explaining a
 
 <div align="center">
 
-**Languages**
+`LANGUAGES`
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=39FF14" />
 
-**AI / GenAI**
+`AI / GENAI`
 <br/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG%20%7C%20Vector%20DBs-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=langchain&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-LangGraph-000000?style=flat-square&logo=langchain&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-OpenAI%20API-000000?style=flat-square&logo=openai&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-Groq-000000?style=flat-square&logo=groq&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-RAG%20|%20Vector%20DBs-000000?style=flat-square&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-OpenCV-000000?style=flat-square&logo=opencv&logoColor=39FF14" />
 
-**Backend & Data**
+`BACKEND & DATA`
 <br/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/ChromaDB-1C1C1C?style=flat-square" />
+<img src="https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-Firebase-000000?style=flat-square&logo=firebase&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-ChromaDB-000000?style=flat-square&logoColor=39FF14" />
 
-**DevOps & Cloud**
+`DEVOPS & CLOUD`
 <br/>
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure%20DevOps-000000?style=flat-square&logo=azuredevops&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/-GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=39FF14" />
 
 </div>
 
@@ -209,11 +231,11 @@ Notes and code from the Agentic AI SIG I taught at PICT — because explaining a
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aaron-Warner-4504&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Aaron-Warner-4504&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaron-Warner-4504&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaron-Warner-4504&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area_color=39FF14&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -223,12 +245,11 @@ Notes and code from the Agentic AI SIG I taught at PICT — because explaining a
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/3fb950/Aaron-Warner-4504" alt="Pranav's GitHub contribution graph" width="100%"/>
+<img src="https://ghchart.rshah.org/39FF14/Aaron-Warner-4504" alt="Pranav's GitHub contribution graph" width="100%"/>
 
 </div>
 
 <br/>
-
 
 
 ## 🚀 Receipts
@@ -241,9 +262,11 @@ Notes and code from the Agentic AI SIG I taught at PICT — because explaining a
 
 <div align="center">
 
-### 📬 Got something worth building? Let's talk.
+```bash
+pranav@dev:~$ echo "let's build something intelligent" | mail -s "hey" pranavkodlinge@gmail.com
+```
 
-<a href="https://www.linkedin.com/in/pranav-kodlinge/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:pranavkodlinge@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/pranav-kodlinge/"><img src="https://img.shields.io/badge/-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000" /></a>
+<a href="mailto:pranavkodlinge@gmail.com"><img src="https://img.shields.io/badge/-SAY%20HELLO-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=000000" /></a>
 
 </div>
